@@ -24,7 +24,12 @@ record of the year), across two horizons.
 **Inputs:**
 1. **Text/voice capture** — low-friction capture of funny things said/done,
    via a shared channel (e.g. WhatsApp) so both parents can contribute without
-   extra apps or friction.
+   extra apps or friction. The core entry point is a **voice note**: a parent
+   just talks, in the moment, with nothing else required — no typing, no
+   picking a date. Date/time is inferred automatically (e.g. from when the
+   message was sent), not asked of the parent. Friction is the enemy here:
+   if it takes more than "open chat, hold to record, speak," it won't get
+   used consistently.
 2. **Photo curation** — auto-select nice photos from the phone gallery
    (favorites prioritized) plus photos shared in the WhatsApp channel, with
    location read from photo metadata.
